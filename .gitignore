@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+knn_model.pkl
+scaler_model.pkl
 # Distribution / packaging
 .Python
 build/
